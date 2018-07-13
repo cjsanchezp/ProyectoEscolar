@@ -1,0 +1,13 @@
+G:\Mis Proyectos\Full Framework\Proyecto_Escolar\Proyecto_Escolar\bin\Debug\Proyecto_Escolar.exe.config
+G:\Mis Proyectos\Full Framework\Proyecto_Escolar\Proyecto_Escolar\bin\Debug\Proyecto_Escolar.exe
+G:\Mis Proyectos\Full Framework\Proyecto_Escolar\Proyecto_Escolar\bin\Debug\Proyecto_Escolar.pdb
+G:\Mis Proyectos\Full Framework\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.csprojAssemblyReference.cache
+G:\Mis Proyectos\Full Framework\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.Login.resources
+G:\Mis Proyectos\Full Framework\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.Menu.resources
+G:\Mis Proyectos\Full Framework\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.Properties.Resources.resources
+G:\Mis Proyectos\Full Framework\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.csproj.GenerateResource.cache
+G:\Mis Proyectos\Full Framework\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.csproj.CoreCompileInputs.cache
+G:\Mis Proyectos\Full Framework\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.exe
+G:\Mis Proyectos\Full Framework\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.pdb
+G:\Mis Proyectos\Full Framework\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.frmAlumnos.resources
+G:\Mis Proyectos\Full Framework\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.frm_Materias.resources
